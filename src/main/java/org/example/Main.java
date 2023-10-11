@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Fourth Test");
         System.out.println("Fifth Test");
         System.out.println("Six Test");
-
+System.out.println("7th Test");
 
     }
 }
